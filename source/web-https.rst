@@ -26,6 +26,11 @@ or directly use these files in your application. If you use PHP, static files or
 :doc:`web backends <web-backends>`, we handle HTTPS for you and there is no need
 to do anything.
 
+Migrating to Uberspace
+----------------------
+
+If you move to us from another host, you don’t have to bring your certificate files. The new ones we create will work.
+
 .. warning::
 
     Certificates issued by let's encrypt have a short life of 90 days. We renew
